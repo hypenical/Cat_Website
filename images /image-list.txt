@@ -1,6 +1,0 @@
-list.start>
-  cat.png
-  jack.png
-  bongocat.png
-  helloworld.png
-list.end>
